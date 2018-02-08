@@ -15,4 +15,4 @@ yarn dev
 ## Configuration Files
 1. .firebaserc
 
-2. main.js
+2. /src/main.js
